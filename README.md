@@ -87,7 +87,7 @@
 
     <div class="header">
         <h1>Abishek Joshua</h1>
-        <p>Electronics Engineer | Cyber Security Expert</p>
+        <p>Studen</p>
     </div>
 
     <div class="nav">

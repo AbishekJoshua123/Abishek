@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abishek Joshua- Portfolio</title>
+    <title>Abishek joshua - Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,20 +12,17 @@
             background-color: #f5f5f5;
         }
         .header {
-            background-color: #b4e800;
+            background-color: #c4e800;
             text-align: center;
-            padding: 30px;
-            color: white;
+            padding: 20px;
         }
         .header h1 {
             margin: 0;
-            font-size: 28px;
-            color: black;
+            color: #fff;
         }
         .header p {
             margin: 5px 0;
-            font-size: 18px;
-            color: black;
+            color: #fff;
         }
         .nav {
             display: flex;
@@ -37,11 +34,6 @@
             color: white;
             text-decoration: none;
             padding: 10px 20px;
-            font-weight: bold;
-        }
-        .nav a:hover {
-            background: #d70000;
-            border-radius: 5px;
         }
         .section {
             background: white;
@@ -70,16 +62,6 @@
             padding: 10px 20px;
             text-decoration: none;
             border-radius: 5px;
-            font-weight: bold;
-        }
-        .resume a:hover {
-            background: #444;
-        }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background: #222;
-            color: white;
         }
     </style>
 </head>
@@ -87,7 +69,7 @@
 
     <div class="header">
         <h1>Abishek Joshua</h1>
-        <p>Studen</p>
+        <p>Data Science</p>
     </div>
 
     <div class="nav">
@@ -99,4 +81,42 @@
     </div>
 
     <div id="about" class="section">
-        <h2>About Me
+        <h2>About Me</h2>
+        <p>I'm a <b>data science student</b> passionate about organizations of data. protect data and create data representation. With over 2 years of experience</p>
+    </div>
+
+    <div id="education" class="section">
+        <h2>Education</h2>
+        <p>Madras University- Student computer science with data science </p>
+    </div>
+
+    <div id="skills" class="section skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Html</li>
+            <li>Python</li>
+            <li>Machine Learning</li>
+            <li>Java</li>
+            <li>C++</li>
+            <li>JavaScript</li>
+        </ul>
+    </div>
+
+    <div id="projects" class="section">
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Matplotlib</a></li>
+        </ul>
+    </div>
+
+    <div id="resume" class="resume">
+        <h2>Resume</h2>
+        <a href="#">Download CV</a>
+    </div>
+
+    <footer style="text-align: center; padding: 10px; background: #222; color: white;">
+        © 2024 Abishek
+    </footer>
+
+</body>
+</html>

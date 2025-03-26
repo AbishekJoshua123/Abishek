@@ -115,7 +115,7 @@
     </div>
 
     <footer style="text-align: center; padding: 10px; background: #222; color: white;">
-        © 2024 Abishek
+        © 2025 Abishek
     </footer>
 
 </body>
